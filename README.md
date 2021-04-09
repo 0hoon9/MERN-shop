@@ -6,12 +6,12 @@ Json Web Token을 활용한 인증기반 로그인 시스템과 Redux를 통한 
 
 ### 🔨Stacks
 ---
-- Language: [![JavaScript Badge](http://img.shields.io/badge/JavaScript-ES6++-#f7df1e?style=flat-square&logo=javascript&link=https://developer.mozilla.org/ko/docs/Web/JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
-- Backend: [![NodeJS Badge](http://img.shields.io/badge/NodeJS-v14.6.0-#339933?style=flat-square&logo=nodejs&link=https://nodejs.org/ko/](https://nodejs.org/ko/)
-[![mongoDB Badge](http://img.shields.io/badge/mongoDB-#47a248?style=flat-square&logo=mongdb&link=https://www.nodejs.com/ko/)](https://www.nodejs.com/ko/)
+- Language: [![JavaScript Badge](http://img.shields.io/badge/JavaScript-ES6++-f7df1e?style=flat-square&logo=javascript&link=https://developer.mozilla.org/ko/docs/Web/JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+- Backend: [![NodeJS Badge](http://img.shields.io/badge/NodeJS-v14.6.0-339933?style=flat-square&logo=nodejs&link=https://nodejs.org/ko/](https://nodejs.org/ko/)
+[![mongoDB Badge](http://img.shields.io/badge/mongoDB-47a248?style=flat-square&logo=mongdb&link=https://www.nodejs.com/ko/)](https://www.nodejs.com/ko/)
 [![Express Badge](http://img.shields.io/badge/Express-v4.17.1-yellow?style=flat-square&logo=express&link=https://expressjs.com/ko/)](https://expressjs.com/ko/)
-- Frontend: [![React Badge](http://img.shields.io/badge/React-v17.0.1-#61dafb?style=flat-square&logo=express&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)  
-- State management: [![Redux Badge](http://img.shields.io/badge/Redux-v4.0.5-#764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)]https://ko.redux.js.org/introduction/getting-started/) 
+- Frontend: [![React Badge](http://img.shields.io/badge/React-v17.0.1-61dafb?style=flat-square&logo=express&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)  
+- State management: [![Redux Badge](http://img.shields.io/badge/Redux-v4.0.5-764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)]https://ko.redux.js.org/introduction/getting-started/) 
 ### 📬Installation
 ---
 '''javascriprt
@@ -23,20 +23,20 @@ npm i | yarn add
 ---
 '''
 └─── backend
-  │       ├─── config
-  │       ├─── controllers
-  │       ├─── data
-  │       ├─── middleware
-  │       ├─── models
-  │       ├─── routes
-  │       └─── utils
-  │
+  │       ├─── config  
+  │       ├─── controllers  
+  │       ├─── data  
+  │       ├─── middleware  
+  │       ├─── models  
+  │       ├─── routes  
+  │       └─── utils  
+  │  
   └─ frontend
-          ├─── actions
-          ├─── components
-          ├─── constants
-          ├─── reducers
-          └─── screens
+          ├─── actions  
+          ├─── components  
+          ├─── constants  
+          ├─── reducers  
+          └─── screens  
 '''  
 - backend
   - config: mongoose를 사용해 서버와 데이터베이스 연결
