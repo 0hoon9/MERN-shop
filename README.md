@@ -14,14 +14,14 @@ Json Web Token을 활용한 인증기반 로그인 시스템과 Redux를 통한 
 - State management: [![Redux Badge](http://img.shields.io/badge/Redux-v4.0.5-764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)]https://ko.redux.js.org/introduction/getting-started/) 
 ### 📬Installation
 ---
-'''javascriprt
+```javascriprt
 npm i | yarn add
-'''  
+```
 <br/>
 
 ### 📂Directory Structure
 ---
-'''
+```
 └─── backend
   │       ├─── config  
   │       ├─── controllers  
@@ -37,7 +37,7 @@ npm i | yarn add
           ├─── constants  
           ├─── reducers  
           └─── screens  
-'''  
+``` 
 - backend
   - config: mongoose를 사용해 서버와 데이터베이스 연결
   - controllers: router에 연결할 controller
