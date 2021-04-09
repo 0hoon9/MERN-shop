@@ -72,25 +72,18 @@ npm i | yarn add
 ---
 #### 1-1. 상품목록
 ![상품목록](https://user-images.githubusercontent.com/76147992/114186946-64bf7800-9982-11eb-9e22-5d1518c3b90a.JPG)  
-<hr/>
 #### 1-2. 상세보기
 ![상세보기](https://user-images.githubusercontent.com/76147992/114187865-705f6e80-9983-11eb-8ded-dce9731e5ff2.JPG)  
-<hr/>
 #### 2. 댓글 및 별점주기
 ![댓글 및 별점](https://user-images.githubusercontent.com/76147992/114190559-63904a00-9986-11eb-8a9e-f0775545d3d4.gif)  
-<hr/>
 #### 3. 장바구니
 ![장바구니](https://user-images.githubusercontent.com/76147992/114194126-24fc8e80-998a-11eb-8aea-61115b7c67ac.gif)
-<hr/>
 #### 4-1. 관리자-회원목록
 ![회원목록](https://user-images.githubusercontent.com/76147992/114194636-abb16b80-998a-11eb-95b5-5254b5e53e05.JPG)
-<hr/>
 #### 4-2. 관리자-상품목록
 ![상품목록](https://user-images.githubusercontent.com/76147992/114194641-ad7b2f00-998a-11eb-8c3f-3cf0bafe1785.JPG)
-<hr/>
 #### 4-3. 관리자-주문목록
 ![주문목록](https://user-images.githubusercontent.com/76147992/114194669-b409a680-998a-11eb-8899-af1ab78939c0.JPG)
-v
 #### 5. PayPal 결제
 ![PayPal checkout](https://user-images.githubusercontent.com/76147992/114195981-e7006a00-998b-11eb-9b5a-80f41c079abd.JPG)
 <hr/>
