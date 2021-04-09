@@ -11,7 +11,9 @@ Json Web Token을 활용한 인증기반 로그인 시스템과 Redux를 통한 
 [![mongoDB Badge](http://img.shields.io/badge/mongoDB-47a248?style=flat-square&logo=mongdb&link=https://www.nodejs.com/ko/)](https://www.nodejs.com/ko/)
 [![Express Badge](http://img.shields.io/badge/Express-v4.17.1-yellow?style=flat-square&logo=express&link=https://expressjs.com/ko/)](https://expressjs.com/ko/)
 - Frontend: [![React Badge](http://img.shields.io/badge/React-v17.0.1-61dafb?style=flat-square&logo=express&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)  
-- State management: [![Redux Badge](http://img.shields.io/badge/Redux-v4.0.5-764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)]https://ko.redux.js.org/introduction/getting-started/) 
+- State management: [![Redux Badge](http://img.shields.io/badge/Redux-v4.0.5-764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)]https://ko.redux.js.org/introduction/getting-started/)  
+<br/>
+
 ### 📬Installation
 ---
 ```javascriprt
