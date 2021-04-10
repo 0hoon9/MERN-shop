@@ -10,7 +10,7 @@ Json Web Token을 활용한 인증 시스템과 Redux를 통한 상태관리, Pa
 - Backend: [![MongoDB-db](https://img.shields.io/badge/MongoDB-b7f0b1?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 - [![Express Badge](http://img.shields.io/badge/Express-v4.17.1-yellow?style=flat-square&logo=express&link=https://expressjs.com/ko/)](https://expressjs.com/ko/)
 - [![NodeJS Badge](http://img.shields.io/badge/NodeJS-v14.6.0-339933?style=flat-square&logo=node.js&link=https://nodejs.org/ko/)](https://nodejs.org/ko/)
-- Frontend: [![React Badge](http://img.shields.io/badge/React-v17.0.1-61dafb?style=flat-square&logo=express&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)  
+- Frontend: [![React Badge](http://img.shields.io/badge/React-v17.0.1-61dafb?style=flat-square&logo=react&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)  
 - State management: [![Redux Badge](http://img.shields.io/badge/Redux-v4.0.5-764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)](https://ko.redux.js.org/introduction/getting-started/)  
 <br/>
 
