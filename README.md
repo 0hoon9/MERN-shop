@@ -7,7 +7,7 @@ Json Web Token을 활용한 인증 시스템과 Redux를 통한 상태관리, Pa
 ### 🔨Stacks
 ---
 - Language: [![JavaScript Badge](http://img.shields.io/badge/JavaScript-ES6++-f7df1e?style=flat-square&logo=javascript&link=https://developer.mozilla.org/ko/docs/Web/JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
-- Backend: [![mongoDB Badge](http://img.shields.io/badge/mongoDB-47a248?style=flat-square&logo=mongdb&link=https://www.nodejs.com/ko/)](https://www.nodejs.com/ko/)
+- Backend: [![MongoDB-db](https://img.shields.io/badge/MongoDB-b7f0b1?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 - [![Express Badge](http://img.shields.io/badge/Express-v4.17.1-yellow?style=flat-square&logo=express&link=https://expressjs.com/ko/)](https://expressjs.com/ko/)
 - [![NodeJS Badge](http://img.shields.io/badge/NodeJS-v14.6.0-339933?style=flat-square&logo=nodejs&link=https://nodejs.org/ko/)](https://nodejs.org/ko/)
 - Frontend: [![React Badge](http://img.shields.io/badge/React-v17.0.1-61dafb?style=flat-square&logo=express&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)  
